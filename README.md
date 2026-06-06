@@ -112,9 +112,9 @@ Designed and developed a responsive luxury resort booking platform with modern U
 
 ## 📈 GitHub Statistics
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antra-light\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antra-light&show_icons=true&theme=tokyonight)
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antra-light\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antra-light&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect With Me
 
